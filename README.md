@@ -98,3 +98,20 @@ Implemented and tested:
 **Sidharth**
 
 GitHub: [pksidharth](https://github.com/pksidharth)
+
+## Screenshots
+
+### 1. Workflow Overview
+![Workflow Overview](01%20workflow-overview.png)
+
+### 2. Article Summary
+![Article Summary](02%20article-summary.png)
+
+### 3. LinkedIn Post Generation
+![LinkedIn Generation](03%20linkedin-post-generation.png)
+
+### 4. LinkedIn Publishing Execution
+![LinkedIn Execution](04%20linkedin-publishing-execution.png)
+
+### 5. Published LinkedIn Post
+![Published LinkedIn Post](05%20published-linkedin-post.png)
